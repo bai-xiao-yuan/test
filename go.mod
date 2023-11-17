@@ -1,1 +1,1 @@
-module test
+module github.com/bai-xiao-yuan/test
